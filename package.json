@@ -1,0 +1,15 @@
+{
+  "name": "1xbet-pwa-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start:dev": "http-server public -p 3001 -d "
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "http-server": "^0.12.3"
+  }
+}
